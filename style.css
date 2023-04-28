@@ -13,11 +13,18 @@ body {
 .logo{  
   height: 50%;
   width: 50%;
-
 }
+
 h1 {
   font-size: 5rem;
 }
+
+.textstyle{
+  color: yellowgreen;
+}
+
+
+
 
 footer {
   text-align: right;
